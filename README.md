@@ -162,9 +162,8 @@ Your booking has been confirmed!
 ## 👨‍💻 Author
 
 Name: Divyesh Modhvadiya  
-Course: BCA  
-Project Type: Academic Mini Project  
-Programming Language: C  
+Course: BCA   
+Programming Language Used : C  
 
 ---
 
